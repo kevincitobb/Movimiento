@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movimiento</string>
+    <string name="aceleracion">aceleración</string>
+    <string name="a_x">a_x</string>
+    <string name="acelareci_n_x">a_x</string>
+    <string name="a_y">a_y</string>
+    <string name="acelareci_n_y">a_y</string>
+    <string name="a_z">a_z</string>
+    <string name="aceleraci_n_z">a_z</string>
+    <string name="a_m_dulo">a módulo</string>
+    <string name="a_m_xima">a máxima</string>
+    <string name="gravedad">gravedad</string>
+</resources>
